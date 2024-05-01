@@ -32,7 +32,7 @@ public class ShooterWheelSpinner extends Command {
     //timer = new Timer();
     //timerLength = seconds;
     this.rps = rps;
-    // Use addRequirements() here to declare subsystem dependencies.
+    // (notetoself)Use addRequirements() here to declare subsystem dependencies.
     
   }
 
